@@ -1,0 +1,44 @@
+/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+p
+{
+	color: #696969;
+	font-family: serif;
+	font-size: 11pt;
+	font: Times New Roman;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h1
+{
+	font-family: serif;
+	font-style: inherit;
+	font-variant: normal;
+	color: #696969;
+}
+
+h2
+{
+	font-family: serif;
+	font-style: normal;
+	color: #696969;
+}
+
